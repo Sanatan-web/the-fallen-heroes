@@ -1,0 +1,328 @@
+{
+  "soldiers": [
+    {
+      "id": "shaitan-singh-bhati",
+      "full_name": "Shaitan Singh Bhati",
+      "rank_at_death": "Major",
+      "posthumous_rank": null,
+      "award": "Param Vir Chakra",
+      "award_year": 1962,
+      "service": "Indian Army",
+      "regiment": "The Kumaon Regiment",
+      "unit": "13 Kumaon",
+      "conflict": "Indo-China War 1962",
+      "operation": "Battle of Rezang La",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1924-12-01",
+      "date_of_death": "1962-11-18",
+      "birthplace": {
+        "village": "Banasar",
+        "town": null,
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Jodhpur District Headquarters",
+        "mapped_latitude": 26.2389,
+        "mapped_longitude": 73.0243,
+        "reason": "The exact modern location of Banasar village could not be confidently established. District headquarters is used as a fallback."
+      },
+      "short_biography": "Major Shaitan Singh Bhati was born on December 1, 1924, in Banasar village, Jodhpur district, Rajasthan. Hailing from a military family, he was commissioned into the Kumaon Regiment after the Jodhpur State Forces merged into the Indian Army. He commanded the 'Charlie' Company of the 13 Kumaon battalion in the high-altitude Chushul sector during the 1962 Sino-Indian War. He made the supreme sacrifice while defending the Rezang La pass and was posthumously awarded the Param Vir Chakra.",
+      "act_of_valor": "During the 1962 Indo-China War, Major Shaitan Singh commanded a company at Rezang La at an altitude of 17,000 feet. Subjected to heavy artillery fire followed by overwhelming Chinese infantry assaults, he moved from trench to trench to motivate his men despite sustaining grievous injuries. Out of 124 soldiers, 114 died fighting to the last man. His exemplary leadership and supreme sacrifice earned him the Param Vir Chakra.",
+      "image_source": {
+        "title": "Major Shaitan Singh PVC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/major-shaitan-singh-pvc/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "District fallback mapping applied to preserve geographic integrity."
+      }
+    },
+    {
+      "id": "abdul-hamid",
+      "full_name": "Abdul Hamid",
+      "rank_at_death": "Company Quarter Master Havildar",
+      "posthumous_rank": null,
+      "award": "Param Vir Chakra",
+      "award_year": 1965,
+      "service": "Indian Army",
+      "regiment": "The Grenadiers",
+      "unit": "4 Grenadiers",
+      "conflict": "Indo-Pak War 1965",
+      "operation": "Op Riddle",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1933-07-01",
+      "date_of_death": "1965-09-10",
+      "birthplace": {
+        "village": "Dhamupur",
+        "town": null,
+        "district": "Ghazipur",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Ghazipur District Headquarters",
+        "mapped_latitude": 25.58,
+        "mapped_longitude": 83.57,
+        "reason": "The birthplace village Dhamupur is documented, but the Ghazipur district headquarters is used as a verified fallback."
+      },
+      "short_biography": "Company Quarter Master Havildar Abdul Hamid was born on July 1, 1933, in Dhamupur village of Ghazipur District, Uttar Pradesh. Raised in a humble family, he joined the Indian Army in 1953 and served in the 4 Grenadiers. A highly skilled marksman, he was placed in command of a recoilless rifle platoon during the 1965 Indo-Pak War. He laid down his life destroying advanced Pakistani armor in the Khem Karan sector and was posthumously awarded the Param Vir Chakra.",
+      "act_of_valor": "During the Battle of Asal Uttar in September 1965, CQMH Abdul Hamid's battalion faced a massive armored assault by Pakistani Patton tanks. Operating a jeep-mounted recoilless rifle under intense enemy shelling, he systematically outmaneuvered and destroyed multiple enemy tanks at close range. He continued his assault until his jeep was directly hit by a tank shell, resulting in his martyrdom.",
+      "image_source": {
+        "title": "CQMH Abdul Hamid PVC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/cqmh-abdul-hamid-pvc/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "District fallback mapping applied."
+      }
+    },
+    {
+      "id": "mahendra-nath-mulla",
+      "full_name": "Mahendra Nath Mulla",
+      "rank_at_death": "Captain",
+      "posthumous_rank": null,
+      "award": "Maha Vir Chakra",
+      "award_year": 1971,
+      "service": "Indian Navy",
+      "regiment": "Indian Navy",
+      "unit": "INS Khukri",
+      "conflict": "Indo-Pak War 1971",
+      "operation": "Indian Naval Operations",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1926-05-15",
+      "date_of_death": "1971-12-09",
+      "birthplace": {
+        "village": null,
+        "town": "Gorakhpur",
+        "district": "Gorakhpur",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Gorakhpur District Headquarters",
+        "mapped_latitude": 26.7606,
+        "mapped_longitude": 83.3732,
+        "reason": "Birthplace documented as Gorakhpur; district headquarters mapping applied."
+      },
+      "short_biography": "Captain Mahendra Nath Mulla was born on May 15, 1926, in Gorakhpur, Uttar Pradesh, into a distinguished family of legal luminaries. Despite his family's background in law, he chose a career in the Armed Forces, joining the Indian Navy. Rising to the rank of Captain, he was placed in command of the frigate INS Khukri. During the 1971 Indo-Pak War, his ship was torpedoed by a Pakistani submarine in the Arabian Sea. Displaying the highest traditions of naval leadership, he went down with his ship while ensuring the survival of his crew.",
+      "act_of_valor": "On December 9, 1971, the INS Khukri was struck by torpedoes from an enemy submarine. As the ship rapidly lost power and began to sink, Captain Mulla personally directed the evacuation, refusing to save himself. He was last seen calmly handing out life jackets to junior sailors and guiding them to safety before going down with his vessel. He was posthumously awarded the Maha Vir Chakra.",
+      "image_source": {
+        "title": "Captain MN Mulla MVC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/captain-mahendra-nath-mulla-mvc/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "bikumalla-santosh-babu",
+      "full_name": "Bikumalla Santosh Babu",
+      "rank_at_death": "Colonel",
+      "posthumous_rank": null,
+      "award": "Maha Vir Chakra",
+      "award_year": 2021,
+      "service": "Indian Army",
+      "regiment": "The Bihar Regiment",
+      "unit": "16 Bihar",
+      "conflict": "Sino-Indian Border Skirmishes",
+      "operation": "Op Snow Leopard",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1983-02-13",
+      "date_of_death": "2020-06-15",
+      "birthplace": {
+        "village": null,
+        "town": "Suryapet",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Suryapet District Headquarters",
+        "mapped_latitude": 17.1396,
+        "mapped_longitude": 79.6231,
+        "reason": "Birthplace documented as Suryapet; mapped to the district headquarters."
+      },
+      "short_biography": "Colonel Bikumalla Santosh Babu was born on February 13, 1983, in Suryapet, Telangana. He attended Sainik School Korukonda and joined the National Defence Academy, eventually being commissioned into the 16 Bihar Battalion in 2004. An officer known for his tactical acumen and leadership, he took command of 16 Bihar in 2019. In June 2020, during Operation Snow Leopard in Eastern Ladakh, he made the supreme sacrifice while leading his troops in a violent clash against Chinese forces in the Galwan Valley.",
+      "act_of_valor": "During Operation Snow Leopard, Colonel Santosh Babu was tasked with verifying the withdrawal of Chinese forces at Patrol Point 14 in the Galwan Valley. Facing heavy resistance and a premeditated attack involving improvised lethal weapons, he led his troops from the front in a brutal hand-to-hand clash. Despite sustaining severe injuries, he refused to yield, inspiring his men to hold their ground. He was posthumously awarded the Maha Vir Chakra.",
+      "image_source": {
+        "title": "Col Bikumalla Santosh Babu MVC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/col-santosh-babu-mvc/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    },
+    {
+      "id": "gurtej-singh",
+      "full_name": "Gurtej Singh",
+      "rank_at_death": "Sepoy",
+      "posthumous_rank": null,
+      "award": "Vir Chakra",
+      "award_year": 2021,
+      "service": "Indian Army",
+      "regiment": "The Punjab Regiment",
+      "unit": "3 Punjab",
+      "conflict": "Sino-Indian Border Skirmishes",
+      "operation": "Op Snow Leopard",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1997-11-15",
+      "date_of_death": "2020-06-15",
+      "birthplace": {
+        "village": "Birewala Dogran",
+        "town": null,
+        "district": "Mansa",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Mansa District Headquarters",
+        "mapped_latitude": 29.988,
+        "mapped_longitude": 75.3934,
+        "reason": "The exact modern location of Birewala Dogran village could not be definitively resolved; district headquarters used as a fallback."
+      },
+      "short_biography": "Sepoy Gurtej Singh was born on November 15, 1997, in Birewala Dogran village of Mansa district, Punjab. Deeply patriotic, he fulfilled his childhood dream by joining the Indian Army in 2018. Deployed with the 3 Punjab regiment, he served in extreme high-altitude regions, including the Siachen Glacier. In June 2020, as the youngest soldier in his patrol at age 23, he laid down his life fighting off adversaries during the Galwan Valley skirmishes.",
+      "act_of_valor": "Operating as a scout for his patrol during Operation Snow Leopard, Sepoy Gurtej Singh identified a hostile troop buildup and provided critical early warnings. When the situation escalated into a violent physical confrontation, he fought fearlessly against overwhelming odds, saving the lives of his comrades before succumbing to his injuries. His bravery earned him the Vir Chakra posthumously.",
+      "image_source": {
+        "title": "Sepoy Gurtej Singh VrC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/sepoy-gurtej-singh-vrc/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "District fallback mapping applied."
+      }
+    },
+    {
+      "id": "mohit-sharma",
+      "full_name": "Mohit Sharma",
+      "rank_at_death": "Major",
+      "posthumous_rank": null,
+      "award": "Ashok Chakra",
+      "award_year": 2009,
+      "service": "Indian Army",
+      "regiment": "The Parachute Regiment",
+      "unit": "1 Para (SF)",
+      "conflict": "CI & IS Ops",
+      "operation": "CI Ops (Kupwara)",
+      "died_in_service": true,
+      "posthumous": true,
+      "date_of_birth": "1978-01-13",
+      "date_of_death": "2009-03-21",
+      "birthplace": {
+        "village": null,
+        "town": "Rohtak",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "district_headquarters",
+        "mapped_name": "Rohtak District Headquarters",
+        "mapped_latitude": 28.8955,
+        "mapped_longitude": 76.5892,
+        "reason": "Birthplace documented as Rohtak; district headquarters mapping applied."
+      },
+      "short_biography": "Major Mohit Sharma was born on January 13, 1978, in Rohtak, Haryana. Fondly known as 'Mike' among his peers, he was a gifted officer who possessed excellent tactical skills and a passion for music. He was commissioned into the elite 1 Para (Special Forces) of the Parachute Regiment. A veteran of numerous high-risk covert operations in Jammu and Kashmir, he was known for leading his squad from the front. He laid down his life during a fierce gunfight with terrorists in the Kupwara sector.",
+      "act_of_valor": "During a search and destroy operation in the Kupwara district on March 21, 2009, Major Mohit Sharma led a commando team into a dense forest. Upon making contact with infiltrators, his team came under heavy fire. Displaying raw courage, he charged the enemy, killing two terrorists in close combat and rescuing wounded comrades before making the supreme sacrifice. He was awarded the Ashok Chakra.",
+      "image_source": {
+        "title": "Major Mohit Sharma AC",
+        "url": "",
+        "source_name": ""
+      },
+      "video_sources": [],
+      "sources": [
+        "https://honourpoint.in/profile/major-mohit-sharma-ac-sm/"
+      ],
+      "verification": {
+        "identity_verified": true,
+        "service_verified": true,
+        "died_in_service_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+:root { box-sizing: border-box; color-scheme: dark; }
+  *, *::before, *::after { box-sizing: inherit; }
+  html, body { height: 100%; margin: 0; overflow: hidden; background: #0f1211; }
+  .entry { position: fixed; inset: 0; overflow: hidden; transition: opacity 400ms ease-out; }
+  .entry.is-leaving { opacity: 0; }
+  .entry-bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 42%; }
+  /* Light over the sky and soldiers, deeper over the rock where the text sits. */
+  .entry-shade { position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgb(0 0 0 / .32) 0%, rgb(0 0 0 / .14) 34%, rgb(0 0 0 / .3) 58%, rgb(0 0 0 / .74) 100%); }
+  .entry-content { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; justify-content: flex-end;
+    height: 100%; padding: 0 24px max(5vh, calc(env(safe-area-inset-bottom) + 28px)); text-align: center; }
+  h1 { width: min(84vw, 460px); margin: 0; }
+  h1 img { display: block; width: 100%; height: auto; }
+  p { max-width: 36rem; margin: 24px 0 0; font: 16.5px/1.6 "Spectral", Georgia, "Times New Roman", serif;
+    color: rgb(243 238 228 / .9); text-shadow: 0 1px 12px rgb(0 0 0 / .6); }
+  .cta { display: inline-flex; align-items: center; justify-content: center; gap: 12px; min-height: 48px; margin-top: 32px; padding: 0 36px;
+    border-radius: 3px; background: #926C2F; color: #fff9f0; text-decoration: none; text-transform: uppercase; letter-spacing: .14em;
+    font: 500 14px "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif; transition: background-color 150ms; }
+  .cta:hover { background: #82602A; }
+  .cta:focus-visible { outline: 2px solid #f2d9a6; outline-offset: 4px; }
+  .cta span { transition: transform 200ms; }
+  .cta:hover span { transform: translateX(4px); }
+  @media (min-width: 640px) { p { margin-top: 28px; font-size: 19px; } .cta { margin-top: 36px; } }
+  @media (prefers-reduced-motion: reduce) { .entry, .cta span { transition: none; } }

@@ -1,0 +1,56 @@
+{
+  "_about": "Verified additions merged on top of data/soldiers.json by id: extra sources checked against the linked pages, notes where sources disagree, and the pronoun used for the story heading. Researched facts in soldiers.json are never overwritten.",
+  "shaitan-singh-bhati": {
+    "pronoun": "he",
+    "sources": [
+      {
+        "title": "Shaitan Singh",
+        "url": "https://en.wikipedia.org/wiki/Shaitan_Singh",
+        "publisher": "Wikipedia"
+      },
+      {
+        "title": "Battle of Rezang La",
+        "url": "https://en.wikipedia.org/wiki/Battle_of_Rezang_La",
+        "publisher": "Wikipedia"
+      },
+      {
+        "title": "Major Shaitan Singh PVC",
+        "url": "https://honourpoint.in/profile/major-shaitan-singh-pvc/",
+        "publisher": "Honourpoint"
+      }
+    ]
+  },
+  "abdul-hamid": {
+    "pronoun": "he",
+    "sources": [
+      {
+        "title": "Abdul Hamid (soldier)",
+        "url": "https://en.wikipedia.org/wiki/Abdul_Hamid_(soldier)",
+        "publisher": "Wikipedia"
+      }
+    ],
+    "media": [
+      {
+        "type": "article",
+        "title": "Ghazipur pays tribute to 1965 war hero CQMH Abdul Hamid",
+        "url": "https://www.aninews.in/news/national/general-news/ghazipur-pays-tribute-to-1965-war-hero-cqmh-abdul-hamid-on-61st-martyrdom-anniversary20260911081356/",
+        "publisher": "ANI"
+      }
+    ],
+    "recordNotes": [
+      "Accounts differ on how many tanks he destroyed, with figures from four to seven."
+    ]
+  },
+  "mahendra-nath-mulla": {
+    "pronoun": "he"
+  },
+  "bikumalla-santosh-babu": {
+    "pronoun": "he"
+  },
+  "gurtej-singh": {
+    "pronoun": "he"
+  },
+  "mohit-sharma": {
+    "pronoun": "he"
+  }
+}

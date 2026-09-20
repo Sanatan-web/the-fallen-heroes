@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Fallen Heroes</title>
+<meta name="description" content="An interactive map tracing the homes of our fallen soldiers. Tap a marker to discover their story.">
+<link rel="canonical" href="https://thefallenheroes.in/map">
+<meta name="theme-color" content="#0f1211">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="The Fallen Heroes">
+<meta property="og:title" content="The Fallen Heroes">
+<meta property="og:description" content="An interactive map tracing the homes of our fallen soldiers. Tap a marker to discover their story.">
+<meta property="og:url" content="https://thefallenheroes.in/map">
+<meta property="og:image" content="https://thefallenheroes.in/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Fallen Heroes">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Fallen Heroes">
+<meta name="twitter:description" content="An interactive map tracing the homes of our fallen soldiers. Tap a marker to discover their story.">
+<meta name="twitter:image" content="https://thefallenheroes.in/assets/og.jpg">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../assets/apple-touch-icon.png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="../css/map.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&family=Spectral:ital,wght@0,300;0,400;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div id="map"></div>
+<div class="shade" aria-hidden="true"></div>
+<p id="notice" role="status" hidden></p>
+<svg id="leader" aria-hidden="true"></svg>
+<div id="edge-hints"></div>
+
+<header class="site-header">
+  <h1 class="brand"><a href="../" aria-label="The Fallen Heroes, back to the entry page"><img src="../assets/logo.png" alt="The Fallen Heroes" width="240" height="42"></a></h1>
+  <nav class="site-nav" aria-label="Site">
+    <button class="nav-btn" id="open-about">About</button>
+  </nav>
+</header>
+
+<div class="corner">
+  <div class="controls">
+    <button id="zoom-in" aria-label="Zoom in" title="Zoom in"><span data-icon="plus"></span></button>
+    <button id="zoom-out" aria-label="Zoom out" title="Zoom out"><span data-icon="minus"></span></button>
+    <button id="zoom-reset" aria-label="Show all of India" title="Show all of India"><span data-icon="scan"></span></button>
+    <button id="toggle-boundaries" aria-pressed="true" aria-label="State boundaries" title="Hide state boundaries"><span data-icon="layers"></span></button>
+  </div>
+  <div class="legend" aria-label="Map key">
+    <p><span class="legend-mark" aria-hidden="true"></span>Birthplace of one person</p>
+    <p><span class="legend-mark group" aria-hidden="true"><span>2</span></span>People from nearby places</p>
+  </div>
+  <p class="credit">Imagery: Esri, Maxar, Earthstar Geographics, and the GIS User Community. Border and state lines: official Survey of India boundary via <a href="https://github.com/datameet/maps" target="_blank" rel="noopener noreferrer">DataMeet</a> (CC BY 4.0). Map: <a href="https://leafletjs.com" target="_blank" rel="noopener noreferrer">Leaflet</a>.</p>
+</div>
+
+<div id="tooltip" role="tooltip" hidden></div>
+
+<aside id="drawer" hidden>
+  <div class="handle" id="handle"><span></span></div>
+  <div id="drawer-body"></div>
+</aside>
+
+<div class="overlay" id="search" hidden>
+  <div class="backdrop" data-close></div>
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="search-label">
+    <div class="search-bar">
+      <span data-icon="search"></span>
+      <label id="search-label" for="search-input" class="sr-only">Search names, places and regiments</label>
+      <input id="search-input" placeholder="Search a name, place or regiment" autocomplete="off" spellcheck="false"
+             role="combobox" aria-expanded="true" aria-controls="search-results">
+      <kbd>Esc</kbd>
+    </div>
+    <div id="search-out"></div>
+  </div>
+</div>
+
+<div class="overlay" id="about" hidden>
+  <div class="backdrop" data-close></div>
+  <div class="panel" role="dialog" aria-modal="true" aria-labelledby="about-title">
+    <div class="about-head">
+      <h2 id="about-title">About The Fallen Heroes</h2>
+      <button class="icon-btn" data-close aria-label="Close" title="Close"><span data-icon="x"></span></button>
+    </div>
+    <div class="about-body">
+      <p class="lead">The Fallen Heroes is a digital memorial. It places each person where they came from, so you can see the towns and villages behind the names.</p>
+      <section><h3>Who is remembered here</h3><p>Indian service members who died in the line of duty. <span id="about-scope"></span> More are added as each record is researched and checked.</p></section>
+      <section><h3>What the map shows</h3><p>Each mark is a birthplace. Where several people come from the same area, the mark shows how many; zoom in and the marks separate. Select a mark to see who came from there.</p></section>
+      <section><h3>How locations are set</h3><p>Marks sit on the recorded village or town. When a village cannot be placed with confidence, the mark sits at the district headquarters; the profile always shows the documented birthplace and says where the mark actually sits.</p></section>
+      <section><h3>Where the information comes from</h3><p>Every record is written by hand from published sources, including the Ministry of Defence gallantry awards portal, memorial records and reference works. Each profile lists its sources. Where sources disagree, the profile says so instead of choosing one.</p></section>
+      <section><h3>Map data</h3><p>The map is real satellite photography from Esri World Imagery (Maxar, Earthstar Geographics), toned down so the names stay readable. India's border and the state boundaries follow the official Survey of India map, including the complete Jammu and Kashmir and Ladakh, using data published by the DataMeet community (CC BY 4.0). The state lines can be switched off with the layers button; the national border always stays.</p></section>
+    </div>
+  </div>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="../js/map.js"></script>
+</body>
+</html>
