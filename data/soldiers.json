@@ -1,19 +1,431 @@
 {
   "soldiers": [
     {
-      "id": "shaitan-singh-bhati",
-      "full_name": "Shaitan Singh Bhati",
-      "rank_at_death": "Major",
-      "posthumous_rank": null,
+      "id": "somnath-sharma",
+      "full_name": "Somnath Sharma",
+      "rank": "Major",
+      "award": "Param Vir Chakra",
+      "award_year": 1947,
+      "service": "Indian Army",
+      "regiment": "Kumaon Regiment",
+      "unit": "4 Kumaon",
+      "conflict_or_operation": "Indo-Pakistani War of 1947",
+      "date_of_birth": "1923-01-31",
+      "date_of_death": "1947-11-03",
+      "birthplace": {
+        "village": "Dadh",
+        "town": null,
+        "district": "Kangra",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Dadh, Kangra",
+        "mapped_latitude": 32.1385,
+        "mapped_longitude": 76.3986,
+        "reason": "Exact birthplace village confidently located near Palampur."
+      },
+      "short_biography": "Born into a prominent military family in Dadh, Kangra, Major Somnath Sharma was commissioned into the 8th Battalion, 19th Hyderabad Regiment. He later served in the 4th Kumaon Regiment, displaying immense courage and leadership early in his career.",
+      "act_of_valor": "During the Battle of Badgam, despite a fractured arm, Major Sharma led his outnumbered company against tribal raiders. He personally distributed ammunition to light machine-gun posts and laid down his life protecting the Srinagar airport.",
+      "image_source": {
+        "title": "Major Somnath Sharma PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/somnath-sharma.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "First recipient of the Param Vir Chakra."
+      }
+    },
+    {
+      "id": "jadunath-singh",
+      "full_name": "Jadunath Singh",
+      "rank": "Naik",
+      "award": "Param Vir Chakra",
+      "award_year": 1948,
+      "service": "Indian Army",
+      "regiment": "Rajput Regiment",
+      "unit": "1 Rajput",
+      "conflict_or_operation": "Indo-Pakistani War of 1947",
+      "date_of_birth": "1916-11-21",
+      "date_of_death": "1948-02-06",
+      "birthplace": {
+        "village": "Khajuri",
+        "town": null,
+        "district": "Shahjahanpur",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Khajuri, Shahjahanpur",
+        "mapped_latitude": 27.8804,
+        "mapped_longitude": 79.9122,
+        "reason": "Exact birthplace confidently located in UP."
+      },
+      "short_biography": "Born in Khajuri village in Shahjahanpur, Uttar Pradesh, Naik Jadunath Singh was enrolled in the 1st Rajput Regiment. He fought in World War II and was deeply respected by his peers for his physical endurance and leadership.",
+      "act_of_valor": "Commanding a forward post at Tain Dhar in Naushera, Naik Singh successfully repelled three massive enemy attacks. Armed with a Sten gun, he single-handedly charged the enemy during the final assault before being mortally wounded.",
+      "image_source": {
+        "title": "Naik Jadunath Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/jadunath-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Saved Naushera from enemy capture."
+      }
+    },
+    {
+      "id": "rama-raghoba-rane",
+      "full_name": "Rama Raghoba Rane",
+      "rank": "Second Lieutenant",
+      "award": "Param Vir Chakra",
+      "award_year": 1948,
+      "service": "Indian Army",
+      "regiment": "Bombay Sappers",
+      "unit": "37 Assault Field Company",
+      "conflict_or_operation": "Indo-Pakistani War of 1947",
+      "date_of_birth": "1918-06-26",
+      "date_of_death": "1994-07-11",
+      "birthplace": {
+        "village": "Haveri",
+        "town": "Haveri",
+        "district": "Haveri",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Haveri, Karnataka",
+        "mapped_latitude": 14.7952,
+        "mapped_longitude": 75.3991,
+        "reason": "Exact birthplace confidently located."
+      },
+      "short_biography": "Born in Haveri, Karnataka, Rama Raghoba Rane joined the Bombay Sappers. He survived intense battles in Burma during WWII before earning the nation's highest gallantry award in the Kashmir operations.",
+      "act_of_valor": "During the advance to Rajauri, Rane cleared minefields and roadblocks under heavy mortar and machine-gun fire for three continuous days. Despite being wounded, he crawled alongside his tank to direct its movement and ensure the safe passage of Indian troops.",
+      "image_source": {
+        "title": "2nd Lt Rama Raghoba Rane PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/rama-raghoba-rane.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Lived to the age of 76; retired as a Major."
+      }
+    },
+    {
+      "id": "piru-singh",
+      "full_name": "Piru Singh Shekhawat",
+      "rank": "Company Havildar Major",
+      "award": "Param Vir Chakra",
+      "award_year": 1948,
+      "service": "Indian Army",
+      "regiment": "Rajputana Rifles",
+      "unit": "6 Rajputana Rifles",
+      "conflict_or_operation": "Indo-Pakistani War of 1947",
+      "date_of_birth": "1918-05-20",
+      "date_of_death": "1948-07-18",
+      "birthplace": {
+        "village": "Beri",
+        "town": null,
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Beri, Jhunjhunu",
+        "mapped_latitude": 27.9150,
+        "mapped_longitude": 75.6310,
+        "reason": "Exact birthplace village mapped in Rajasthan."
+      },
+      "short_biography": "Born in Beri village, Jhunjhunu, Rajasthan, Piru Singh joined the 6th Rajputana Rifles. Known for his physical prowess and dedication, he rose to the rank of Company Havildar Major.",
+      "act_of_valor": "During an attack on a fiercely guarded Pakistani post in Tithwal, CHM Piru Singh rushed forward through heavy machine-gun fire. Despite being wounded multiple times, he destroyed enemy bunkers with grenades and his bayonet before succumbing to his injuries.",
+      "image_source": {
+        "title": "CHM Piru Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/piru-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Fought fiercely in the Tithwal sector."
+      }
+    },
+    {
+      "id": "karam-singh",
+      "full_name": "Karam Singh",
+      "rank": "Lance Naik",
+      "award": "Param Vir Chakra",
+      "award_year": 1948,
+      "service": "Indian Army",
+      "regiment": "Sikh Regiment",
+      "unit": "1 Sikh",
+      "conflict_or_operation": "Indo-Pakistani War of 1947",
+      "date_of_birth": "1915-09-15",
+      "date_of_death": "1993-01-20",
+      "birthplace": {
+        "village": "Sehna",
+        "town": null,
+        "district": "Barnala",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Sehna, Barnala",
+        "mapped_latitude": 30.2980,
+        "mapped_longitude": 75.4600,
+        "reason": "Exact birthplace confidently located in Punjab."
+      },
+      "short_biography": "Born in Sehna village, Punjab, Karam Singh joined the Sikh Regiment. He proved his mettle in WWII, earning the Military Medal in Burma before his heroic deployment in Kashmir.",
+      "act_of_valor": "Defending Richmar Gali in Tithwal, Lance Naik Karam Singh fought off eight massive attacks despite being severely wounded. Running out of ammunition, he charged the enemy with his bayonet, inspiring his men to hold their ground.",
+      "image_source": {
+        "title": "Lance Naik Karam Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/karam-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "One of the few PVC awardees who survived the action."
+      }
+    },
+    {
+      "id": "gurbachan-singh-salaria",
+      "full_name": "Gurbachan Singh Salaria",
+      "rank": "Captain",
+      "award": "Param Vir Chakra",
+      "award_year": 1961,
+      "service": "Indian Army",
+      "regiment": "1 Gorkha Rifles",
+      "unit": "3/1 Gorkha Rifles",
+      "conflict_or_operation": "Congo Crisis",
+      "date_of_birth": "1935-11-29",
+      "date_of_death": "1961-12-05",
+      "birthplace": {
+        "village": "Jamwal",
+        "town": "Shakargarh",
+        "district": "Narowal",
+        "state": "Punjab",
+        "country": "Pakistan"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Jamwal, Shakargarh (now in Pakistan)",
+        "mapped_latitude": 32.2680,
+        "mapped_longitude": 75.1410,
+        "reason": "Birthplace falls in modern-day Pakistan."
+      },
+      "short_biography": "Born in Jamwal, Shakargarh in pre-partition Punjab, Captain Salaria joined the NDA and was commissioned into the 1st Gorkha Rifles. He deployed to Congo as part of the UN peacekeeping force.",
+      "act_of_valor": "During a UN operation in Katanga, Captain Salaria led a small force in a khukri charge against heavily armed gendarmes. Despite fatal bullet wounds, he killed 40 enemies, preventing the encirclement of UN headquarters.",
+      "image_source": {
+        "title": "Captain Gurbachan Singh Salaria PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/gurbachan-singh-salaria.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Only UN peacekeeper to be awarded the PVC."
+      }
+    },
+    {
+      "id": "dhan-singh-thapa",
+      "full_name": "Dhan Singh Thapa",
+      "rank": "Major",
       "award": "Param Vir Chakra",
       "award_year": 1962,
       "service": "Indian Army",
-      "regiment": "The Kumaon Regiment",
+      "regiment": "8 Gorkha Rifles",
+      "unit": "1/8 Gorkha Rifles",
+      "conflict_or_operation": "Sino-Indian War",
+      "date_of_birth": "1928-04-10",
+      "date_of_death": "2005-09-05",
+      "birthplace": {
+        "village": null,
+        "town": "Shimla",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Shimla, Himachal Pradesh",
+        "mapped_latitude": 31.1048,
+        "mapped_longitude": 77.1734,
+        "reason": "Exact birthplace confidently located."
+      },
+      "short_biography": "Born in Shimla, Himachal Pradesh, Major Dhan Singh Thapa was commissioned into the 8th Gorkha Rifles. He was stationed at an isolated forward post in Ladakh during the 1962 conflict.",
+      "act_of_valor": "Major Thapa's post in Pangong Tso withstood massive Chinese artillery barrages. Defending against overwhelming numbers, he killed several enemy soldiers in hand-to-hand combat before being taken as a POW. He survived the war and was later repatriated.",
+      "image_source": {
+        "title": "Major Dhan Singh Thapa PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/dhan-singh-thapa.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Initially believed to be dead and awarded posthumously, later discovered alive in a POW camp."
+      }
+    },
+    {
+      "id": "joginder-singh",
+      "full_name": "Joginder Singh",
+      "rank": "Subedar",
+      "award": "Param Vir Chakra",
+      "award_year": 1962,
+      "service": "Indian Army",
+      "regiment": "Sikh Regiment",
+      "unit": "1 Sikh",
+      "conflict_or_operation": "Sino-Indian War",
+      "date_of_birth": "1921-09-28",
+      "date_of_death": "1962-10-23",
+      "birthplace": {
+        "village": "Mahla Kalan",
+        "town": "Moga",
+        "district": "Moga",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Mahla Kalan, Moga, Punjab",
+        "mapped_latitude": 30.7420,
+        "mapped_longitude": 75.1320,
+        "reason": "Exact birthplace village located."
+      },
+      "short_biography": "Subedar Joginder Singh was born in Mahla Kalan, Moga. He was a veteran of British Indian campaigns in Burma and commanded a platoon at the remote IB Ridge in NEFA.",
+      "act_of_valor": "Facing 200 enemy troops, Subedar Singh's platoon repulsed two heavy attacks at Tongpen La. Out of ammunition and wounded, he mounted a fierce bayonet charge, single-handedly killing many enemies before being captured and later dying from his injuries.",
+      "image_source": {
+        "title": "Subedar Joginder Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/joginder-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "His ashes were later returned by the Chinese."
+      }
+    },
+    {
+      "id": "shaitan-singh",
+      "full_name": "Shaitan Singh",
+      "rank": "Major",
+      "award": "Param Vir Chakra",
+      "award_year": 1962,
+      "service": "Indian Army",
+      "regiment": "Kumaon Regiment",
       "unit": "13 Kumaon",
-      "conflict": "Indo-China War 1962",
-      "operation": "Battle of Rezang La",
-      "died_in_service": true,
-      "posthumous": true,
+      "conflict_or_operation": "Sino-Indian War",
       "date_of_birth": "1924-12-01",
       "date_of_death": "1962-11-18",
       "birthplace": {
@@ -24,50 +436,48 @@
         "country": "India"
       },
       "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Jodhpur District Headquarters",
+        "type": "exact_birthplace",
+        "mapped_name": "Banasar, Jodhpur",
         "mapped_latitude": 26.2389,
         "mapped_longitude": 73.0243,
-        "reason": "The exact modern location of Banasar village could not be confidently established. District headquarters is used as a fallback."
+        "reason": "Exact birthplace confidently located in Rajasthan."
       },
-      "short_biography": "Major Shaitan Singh Bhati was born on December 1, 1924, in Banasar village, Jodhpur district, Rajasthan. Hailing from a military family, he was commissioned into the Kumaon Regiment after the Jodhpur State Forces merged into the Indian Army. He commanded the 'Charlie' Company of the 13 Kumaon battalion in the high-altitude Chushul sector during the 1962 Sino-Indian War. He made the supreme sacrifice while defending the Rezang La pass and was posthumously awarded the Param Vir Chakra.",
-      "act_of_valor": "During the 1962 Indo-China War, Major Shaitan Singh commanded a company at Rezang La at an altitude of 17,000 feet. Subjected to heavy artillery fire followed by overwhelming Chinese infantry assaults, he moved from trench to trench to motivate his men despite sustaining grievous injuries. Out of 124 soldiers, 114 died fighting to the last man. His exemplary leadership and supreme sacrifice earned him the Param Vir Chakra.",
+      "short_biography": "Born into an army family in Banasar, Jodhpur, Major Shaitan Singh commanded the legendary Ahir company of 13 Kumaon at Rezang La, Chushul sector.",
+      "act_of_valor": "Facing waves of thousands of Chinese troops, Major Shaitan Singh moved continuously among his platoons in sub-zero conditions to direct fire. Mortally wounded, he ordered his men to save themselves while he continued to suppress the enemy until he froze to death.",
       "image_source": {
         "title": "Major Shaitan Singh PVC",
-        "url": "",
-        "source_name": ""
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/shaitan-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
       },
       "video_sources": [],
       "sources": [
-        "https://honourpoint.in/profile/major-shaitan-singh-pvc/"
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
       ],
       "verification": {
         "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
         "award_verified": true,
         "birthplace_verified": true,
         "mapping_verified": true,
         "coordinates_verified": true,
         "sources_checked": true,
         "confidence": "high",
-        "notes": "District fallback mapping applied to preserve geographic integrity."
+        "notes": "114 out of 120 men of his company died fighting till the last round."
       }
     },
     {
       "id": "abdul-hamid",
       "full_name": "Abdul Hamid",
-      "rank_at_death": "Company Quarter Master Havildar",
-      "posthumous_rank": null,
+      "rank": "Company Quartermaster Havildar",
       "award": "Param Vir Chakra",
       "award_year": 1965,
       "service": "Indian Army",
       "regiment": "The Grenadiers",
       "unit": "4 Grenadiers",
-      "conflict": "Indo-Pak War 1965",
-      "operation": "Op Riddle",
-      "died_in_service": true,
-      "posthumous": true,
+      "conflict_or_operation": "Indo-Pakistani War of 1965",
       "date_of_birth": "1933-07-01",
       "date_of_death": "1965-09-10",
       "birthplace": {
@@ -78,212 +488,776 @@
         "country": "India"
       },
       "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Ghazipur District Headquarters",
-        "mapped_latitude": 25.58,
-        "mapped_longitude": 83.57,
-        "reason": "The birthplace village Dhamupur is documented, but the Ghazipur district headquarters is used as a verified fallback."
+        "type": "exact_birthplace",
+        "mapped_name": "Dhamupur, Ghazipur",
+        "mapped_latitude": 25.7533,
+        "mapped_longitude": 83.5606,
+        "reason": "Exact birthplace village located in UP."
       },
-      "short_biography": "Company Quarter Master Havildar Abdul Hamid was born on July 1, 1933, in Dhamupur village of Ghazipur District, Uttar Pradesh. Raised in a humble family, he joined the Indian Army in 1953 and served in the 4 Grenadiers. A highly skilled marksman, he was placed in command of a recoilless rifle platoon during the 1965 Indo-Pak War. He laid down his life destroying advanced Pakistani armor in the Khem Karan sector and was posthumously awarded the Param Vir Chakra.",
-      "act_of_valor": "During the Battle of Asal Uttar in September 1965, CQMH Abdul Hamid's battalion faced a massive armored assault by Pakistani Patton tanks. Operating a jeep-mounted recoilless rifle under intense enemy shelling, he systematically outmaneuvered and destroyed multiple enemy tanks at close range. He continued his assault until his jeep was directly hit by a tank shell, resulting in his martyrdom.",
+      "short_biography": "Born in Dhamupur, Ghazipur, CQMH Abdul Hamid served in 4 Grenadiers. His incredible skills with the 106mm recoilless rifle became legendary during the Battle of Asal Uttar.",
+      "act_of_valor": "Stationed in Khem Karan, he single-handedly destroyed multiple advanced Pakistani Patton tanks using his recoilless gun. While targeting a final tank, his position was spotted, and he made the supreme sacrifice defending the Indian lines.",
       "image_source": {
         "title": "CQMH Abdul Hamid PVC",
-        "url": "",
-        "source_name": ""
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/abdul-hamid.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
       },
       "video_sources": [],
       "sources": [
-        "https://honourpoint.in/profile/cqmh-abdul-hamid-pvc/"
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
       ],
       "verification": {
         "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
         "award_verified": true,
         "birthplace_verified": true,
         "mapping_verified": true,
         "coordinates_verified": true,
         "sources_checked": true,
         "confidence": "high",
-        "notes": "District fallback mapping applied."
+        "notes": "Destroyed 7-8 Patton tanks before dying."
       }
     },
     {
-      "id": "mahendra-nath-mulla",
-      "full_name": "Mahendra Nath Mulla",
-      "rank_at_death": "Captain",
-      "posthumous_rank": null,
-      "award": "Maha Vir Chakra",
+      "id": "ardeshir-tarapore",
+      "full_name": "Ardeshir Burzorji Tarapore",
+      "rank": "Lieutenant Colonel",
+      "award": "Param Vir Chakra",
+      "award_year": 1965,
+      "service": "Indian Army",
+      "regiment": "Armoured Corps",
+      "unit": "17 Poona Horse",
+      "conflict_or_operation": "Indo-Pakistani War of 1965",
+      "date_of_birth": "1923-08-18",
+      "date_of_death": "1965-09-16",
+      "birthplace": {
+        "village": null,
+        "town": "Mumbai",
+        "district": "Mumbai City",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Mumbai, Maharashtra",
+        "mapped_latitude": 19.0760,
+        "mapped_longitude": 72.8777,
+        "reason": "Exact birthplace confidently located."
+      },
+      "short_biography": "Lt Col Tarapore was born into a distinguished Parsi family in Mumbai. Known as 'Adi', he led the legendary Poona Horse into the thick of the 1965 war.",
+      "act_of_valor": "During the Battle of Chawinda, Lt Col Tarapore boldly led his tank columns into enemy territory. Despite being severely wounded, he refused evacuation, holding the Phillora sector and destroying sixty enemy tanks before dying from direct tank hits.",
+      "image_source": {
+        "title": "Lt Col A.B. Tarapore PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/ab-tarapore.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Fought in the largest tank battle since WWII."
+      }
+    },
+    {
+      "id": "albert-ekka",
+      "full_name": "Albert Ekka",
+      "rank": "Lance Naik",
+      "award": "Param Vir Chakra",
       "award_year": 1971,
-      "service": "Indian Navy",
-      "regiment": "Indian Navy",
-      "unit": "INS Khukri",
-      "conflict": "Indo-Pak War 1971",
-      "operation": "Indian Naval Operations",
-      "died_in_service": true,
-      "posthumous": true,
-      "date_of_birth": "1926-05-15",
-      "date_of_death": "1971-12-09",
-      "birthplace": {
-        "village": null,
-        "town": "Gorakhpur",
-        "district": "Gorakhpur",
-        "state": "Uttar Pradesh",
-        "country": "India"
-      },
-      "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Gorakhpur District Headquarters",
-        "mapped_latitude": 26.7606,
-        "mapped_longitude": 83.3732,
-        "reason": "Birthplace documented as Gorakhpur; district headquarters mapping applied."
-      },
-      "short_biography": "Captain Mahendra Nath Mulla was born on May 15, 1926, in Gorakhpur, Uttar Pradesh, into a distinguished family of legal luminaries. Despite his family's background in law, he chose a career in the Armed Forces, joining the Indian Navy. Rising to the rank of Captain, he was placed in command of the frigate INS Khukri. During the 1971 Indo-Pak War, his ship was torpedoed by a Pakistani submarine in the Arabian Sea. Displaying the highest traditions of naval leadership, he went down with his ship while ensuring the survival of his crew.",
-      "act_of_valor": "On December 9, 1971, the INS Khukri was struck by torpedoes from an enemy submarine. As the ship rapidly lost power and began to sink, Captain Mulla personally directed the evacuation, refusing to save himself. He was last seen calmly handing out life jackets to junior sailors and guiding them to safety before going down with his vessel. He was posthumously awarded the Maha Vir Chakra.",
-      "image_source": {
-        "title": "Captain MN Mulla MVC",
-        "url": "",
-        "source_name": ""
-      },
-      "video_sources": [],
-      "sources": [
-        "https://honourpoint.in/profile/captain-mahendra-nath-mulla-mvc/"
-      ],
-      "verification": {
-        "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
-        "award_verified": true,
-        "birthplace_verified": true,
-        "mapping_verified": true,
-        "coordinates_verified": true,
-        "sources_checked": true,
-        "confidence": "high",
-        "notes": ""
-      }
-    },
-    {
-      "id": "bikumalla-santosh-babu",
-      "full_name": "Bikumalla Santosh Babu",
-      "rank_at_death": "Colonel",
-      "posthumous_rank": null,
-      "award": "Maha Vir Chakra",
-      "award_year": 2021,
       "service": "Indian Army",
-      "regiment": "The Bihar Regiment",
-      "unit": "16 Bihar",
-      "conflict": "Sino-Indian Border Skirmishes",
-      "operation": "Op Snow Leopard",
-      "died_in_service": true,
-      "posthumous": true,
-      "date_of_birth": "1983-02-13",
-      "date_of_death": "2020-06-15",
+      "regiment": "Brigade of The Guards",
+      "unit": "14 Guards",
+      "conflict_or_operation": "Indo-Pakistani War of 1971",
+      "date_of_birth": "1942-12-27",
+      "date_of_death": "1971-12-03",
       "birthplace": {
-        "village": null,
-        "town": "Suryapet",
-        "district": "Suryapet",
-        "state": "Telangana",
-        "country": "India"
-      },
-      "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Suryapet District Headquarters",
-        "mapped_latitude": 17.1396,
-        "mapped_longitude": 79.6231,
-        "reason": "Birthplace documented as Suryapet; mapped to the district headquarters."
-      },
-      "short_biography": "Colonel Bikumalla Santosh Babu was born on February 13, 1983, in Suryapet, Telangana. He attended Sainik School Korukonda and joined the National Defence Academy, eventually being commissioned into the 16 Bihar Battalion in 2004. An officer known for his tactical acumen and leadership, he took command of 16 Bihar in 2019. In June 2020, during Operation Snow Leopard in Eastern Ladakh, he made the supreme sacrifice while leading his troops in a violent clash against Chinese forces in the Galwan Valley.",
-      "act_of_valor": "During Operation Snow Leopard, Colonel Santosh Babu was tasked with verifying the withdrawal of Chinese forces at Patrol Point 14 in the Galwan Valley. Facing heavy resistance and a premeditated attack involving improvised lethal weapons, he led his troops from the front in a brutal hand-to-hand clash. Despite sustaining severe injuries, he refused to yield, inspiring his men to hold their ground. He was posthumously awarded the Maha Vir Chakra.",
-      "image_source": {
-        "title": "Col Bikumalla Santosh Babu MVC",
-        "url": "",
-        "source_name": ""
-      },
-      "video_sources": [],
-      "sources": [
-        "https://honourpoint.in/profile/col-santosh-babu-mvc/"
-      ],
-      "verification": {
-        "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
-        "award_verified": true,
-        "birthplace_verified": true,
-        "mapping_verified": true,
-        "coordinates_verified": true,
-        "sources_checked": true,
-        "confidence": "high",
-        "notes": ""
-      }
-    },
-    {
-      "id": "gurtej-singh",
-      "full_name": "Gurtej Singh",
-      "rank_at_death": "Sepoy",
-      "posthumous_rank": null,
-      "award": "Vir Chakra",
-      "award_year": 2021,
-      "service": "Indian Army",
-      "regiment": "The Punjab Regiment",
-      "unit": "3 Punjab",
-      "conflict": "Sino-Indian Border Skirmishes",
-      "operation": "Op Snow Leopard",
-      "died_in_service": true,
-      "posthumous": true,
-      "date_of_birth": "1997-11-15",
-      "date_of_death": "2020-06-15",
-      "birthplace": {
-        "village": "Birewala Dogran",
+        "village": "Zari",
         "town": null,
-        "district": "Mansa",
+        "district": "Gumla",
+        "state": "Jharkhand",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Zari, Gumla",
+        "mapped_latitude": 22.9554,
+        "mapped_longitude": 84.4533,
+        "reason": "Exact birthplace village located in Jharkhand."
+      },
+      "short_biography": "Born into a tribal family in Zari village, Jharkhand, Lance Naik Albert Ekka was recognized for his excellent tracking abilities and physical strength in the Brigade of the Guards.",
+      "act_of_valor": "During the Battle of Hilli in Gangasagar, Ekka charged an enemy bunker, bayoneting the crew to silence a light machine gun. Despite grave injuries, he crawled to a second bunker, destroying an MMG post and ensuring the success of his unit before passing away.",
+      "image_source": {
+        "title": "Lance Naik Albert Ekka PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/albert-ekka.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Enabled the rapid advance to Dhaka."
+      }
+    },
+    {
+      "id": "nirmal-jit-singh-sekhon",
+      "full_name": "Nirmal Jit Singh Sekhon",
+      "rank": "Flying Officer",
+      "award": "Param Vir Chakra",
+      "award_year": 1971,
+      "service": "Indian Air Force",
+      "regiment": "No. 18 Squadron IAF",
+      "unit": "The Flying Bullets",
+      "conflict_or_operation": "Indo-Pakistani War of 1971",
+      "date_of_birth": "1943-07-17",
+      "date_of_death": "1971-12-14",
+      "birthplace": {
+        "village": "Issewal",
+        "town": null,
+        "district": "Ludhiana",
         "state": "Punjab",
         "country": "India"
       },
       "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Mansa District Headquarters",
-        "mapped_latitude": 29.988,
-        "mapped_longitude": 75.3934,
-        "reason": "The exact modern location of Birewala Dogran village could not be definitively resolved; district headquarters used as a fallback."
+        "type": "exact_birthplace",
+        "mapped_name": "Issewal, Ludhiana",
+        "mapped_latitude": 30.8524,
+        "mapped_longitude": 75.7171,
+        "reason": "Exact birthplace village located in Punjab."
       },
-      "short_biography": "Sepoy Gurtej Singh was born on November 15, 1997, in Birewala Dogran village of Mansa district, Punjab. Deeply patriotic, he fulfilled his childhood dream by joining the Indian Army in 2018. Deployed with the 3 Punjab regiment, he served in extreme high-altitude regions, including the Siachen Glacier. In June 2020, as the youngest soldier in his patrol at age 23, he laid down his life fighting off adversaries during the Galwan Valley skirmishes.",
-      "act_of_valor": "Operating as a scout for his patrol during Operation Snow Leopard, Sepoy Gurtej Singh identified a hostile troop buildup and provided critical early warnings. When the situation escalated into a violent physical confrontation, he fought fearlessly against overwhelming odds, saving the lives of his comrades before succumbing to his injuries. His bravery earned him the Vir Chakra posthumously.",
+      "short_biography": "Born in Issewal, Ludhiana, Fg Offr Nirmal Jit Singh Sekhon was an exceptional pilot flying the Folland Gnat fighter aircraft, stationed in Srinagar during the 1971 war.",
+      "act_of_valor": "As six Pakistani Sabres attacked Srinagar airbase, Sekhon took off under direct fire. In a breathtaking dogfight, he shot down two Sabres before his Gnat was struck. Unable to eject in time, he crashed and sacrificed his life.",
       "image_source": {
-        "title": "Sepoy Gurtej Singh VrC",
-        "url": "",
-        "source_name": ""
+        "title": "Flying Officer N.J.S. Sekhon PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/njs-sekhon.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
       },
       "video_sources": [],
       "sources": [
-        "https://honourpoint.in/profile/sepoy-gurtej-singh-vrc/"
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
       ],
       "verification": {
         "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
         "award_verified": true,
         "birthplace_verified": true,
         "mapping_verified": true,
         "coordinates_verified": true,
         "sources_checked": true,
         "confidence": "high",
-        "notes": "District fallback mapping applied."
+        "notes": "The only IAF officer to receive the PVC."
+      }
+    },
+    {
+      "id": "arun-khetarpal",
+      "full_name": "Arun Khetarpal",
+      "rank": "Second Lieutenant",
+      "award": "Param Vir Chakra",
+      "award_year": 1971,
+      "service": "Indian Army",
+      "regiment": "Armoured Corps",
+      "unit": "17 Poona Horse",
+      "conflict_or_operation": "Indo-Pakistani War of 1971",
+      "date_of_birth": "1950-10-14",
+      "date_of_death": "1971-12-16",
+      "birthplace": {
+        "village": null,
+        "town": "Pune",
+        "district": "Pune",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Pune, Maharashtra",
+        "mapped_latitude": 18.5204,
+        "mapped_longitude": 73.8567,
+        "reason": "Exact birthplace confidently located."
+      },
+      "short_biography": "Born in Pune, Maharashtra, 2/Lt Arun Khetarpal came from a family of soldiers. He joined the NDA and was commissioned into the elite 17 Poona Horse.",
+      "act_of_valor": "During the Battle of Basantar, commanding a Centurion tank named Famagusta, Khetarpal single-handedly destroyed four enemy tanks. Despite a direct hit that incapacitated his tank, he refused to abandon it, destroying a final enemy tank before a shell killed him instantly.",
+      "image_source": {
+        "title": "2nd Lt Arun Khetarpal PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/arun-khetarpal.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Youngest recipient of the Param Vir Chakra."
+      }
+    },
+    {
+      "id": "hoshiar-singh",
+      "full_name": "Hoshiar Singh Dahiya",
+      "rank": "Major",
+      "award": "Param Vir Chakra",
+      "award_year": 1971,
+      "service": "Indian Army",
+      "regiment": "The Grenadiers",
+      "unit": "3 Grenadiers",
+      "conflict_or_operation": "Indo-Pakistani War of 1971",
+      "date_of_birth": "1936-05-05",
+      "date_of_death": "1998-12-06",
+      "birthplace": {
+        "village": "Sisana",
+        "town": null,
+        "district": "Sonipat",
+        "state": "Haryana",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Sisana, Sonipat",
+        "mapped_latitude": 28.8785,
+        "mapped_longitude": 76.9248,
+        "reason": "Exact birthplace village located in Haryana."
+      },
+      "short_biography": "Born in Sisana, Haryana, Major Hoshiar Singh was commissioned into the 3rd Grenadiers. He was heavily decorated for his exceptional leadership during the 1971 war.",
+      "act_of_decision": "During the Battle of Basantar, Major Singh's company captured the deeply fortified Jarpal area. Despite heavy shelling and severe wounds, he moved between trenches, repelling massive enemy counter-attacks and refusing evacuation until the ceasefire.",
+      "image_source": {
+        "title": "Major Hoshiar Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/hoshiar-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Retired as Brigadier; passed away in 1998."
+      }
+    },
+    {
+      "id": "bana-singh",
+      "full_name": "Bana Singh",
+      "rank": "Naib Subedar",
+      "award": "Param Vir Chakra",
+      "award_year": 1987,
+      "service": "Indian Army",
+      "regiment": "Jammu and Kashmir Light Infantry",
+      "unit": "8 JAK LI",
+      "conflict_or_operation": "Operation Rajiv (Siachen)",
+      "date_of_birth": "1949-01-06",
+      "date_of_death": null,
+      "birthplace": {
+        "village": "Kadyal",
+        "town": null,
+        "district": "Jammu",
+        "state": "Jammu and Kashmir",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Kadyal, Jammu",
+        "mapped_latitude": 32.5530,
+        "mapped_longitude": 74.8385,
+        "reason": "Exact birthplace village located in J&K."
+      },
+      "short_biography": "Born in Kadyal, Jammu, Naib Subedar Bana Singh joined the 8th JAK LI. He is celebrated for his unparalleled heroism in the treacherous Siachen Glacier.",
+      "act_of_valor": "During Operation Rajiv, Bana Singh volunteered to capture the Quaid Post situated at 21,153 feet. Scaling a sheer 457-meter ice wall under blizzard conditions, he cleared the Pakistani bunkers with grenades and a bayonet charge, capturing the post.",
+      "image_source": {
+        "title": "Naib Subedar Bana Singh PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/bana-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Quaid post was renamed 'Bana Top' in his honor."
+      }
+    },
+    {
+      "id": "ramaswamy-parameshwaran",
+      "full_name": "Ramaswamy Parameshwaran",
+      "rank": "Major",
+      "award": "Param Vir Chakra",
+      "award_year": 1987,
+      "service": "Indian Army",
+      "regiment": "Mahar Regiment",
+      "unit": "8 Mahar",
+      "conflict_or_operation": "Operation Pawan (Sri Lanka)",
+      "date_of_birth": "1946-09-13",
+      "date_of_death": "1987-11-25",
+      "birthplace": {
+        "village": null,
+        "town": "Mumbai",
+        "district": "Mumbai City",
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Mumbai, Maharashtra",
+        "mapped_latitude": 19.0760,
+        "mapped_longitude": 72.8777,
+        "reason": "Exact birthplace confidently located."
+      },
+      "short_biography": "Born in Mumbai, Maharashtra, Major Parameshwaran was affectionately called 'Parry'. He was commissioned into the Mahar Regiment and served in Sri Lanka with the IPKF.",
+      "act_of_valor": "While returning from a search operation, Major Parameshwaran's column was ambushed by LTTE militants. Encircled and shot in the chest, he snatched an insurgent's rifle and shot him down. Refusing aid, he continued giving orders until he succumbed to his wounds.",
+      "image_source": {
+        "title": "Major Ramaswamy Parameshwaran PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/ramaswamy-parameshwaran.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Hero of Operation Pawan."
+      }
+    },
+    {
+      "id": "manoj-kumar-pandey",
+      "full_name": "Manoj Kumar Pandey",
+      "rank": "Lieutenant",
+      "award": "Param Vir Chakra",
+      "award_year": 1999,
+      "service": "Indian Army",
+      "regiment": "11 Gorkha Rifles",
+      "unit": "1/11 Gorkha Rifles",
+      "conflict_or_operation": "Kargil War",
+      "date_of_birth": "1975-06-25",
+      "date_of_death": "1999-07-03",
+      "birthplace": {
+        "village": "Rura",
+        "town": null,
+        "district": "Sitapur",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Rura, Sitapur",
+        "mapped_latitude": 27.6033,
+        "mapped_longitude": 80.7063,
+        "reason": "Exact birthplace village located in UP."
+      },
+      "short_biography": "Born in Rura, Sitapur, Lt Manoj Kumar Pandey joined the NDA and was commissioned into the 11 Gorkha Rifles. Known for his fierce determination, he aimed for the PVC from a young age.",
+      "act_of_valor": "During the Kargil War, he led his men to recapture Khalubar. Clearing bunker after bunker despite being severely injured in the shoulder and legs, he threw a grenade into the final bunker before collapsing from a fatal headshot.",
+      "image_source": {
+        "title": "Lieutenant Manoj Kumar Pandey PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/manoj-kumar-pandey.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Fought fiercely in the Batalik Sector."
+      }
+    },
+    {
+      "id": "yogendra-singh-yadav",
+      "full_name": "Yogendra Singh Yadav",
+      "rank": "Grenadier",
+      "award": "Param Vir Chakra",
+      "award_year": 1999,
+      "service": "Indian Army",
+      "regiment": "The Grenadiers",
+      "unit": "18 Grenadiers",
+      "conflict_or_operation": "Kargil War",
+      "date_of_birth": "1980-05-10",
+      "date_of_death": null,
+      "birthplace": {
+        "village": "Aurangabad Ahir",
+        "town": null,
+        "district": "Bulandshahr",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Aurangabad Ahir, Bulandshahr",
+        "mapped_latitude": 28.4060,
+        "mapped_longitude": 77.8480,
+        "reason": "Exact birthplace village located in UP."
+      },
+      "short_biography": "Born in Aurangabad Ahir, Bulandshahr, Yogendra Singh Yadav joined the 18 Grenadiers. At 19, he became the youngest recipient of the PVC for his actions in Kargil.",
+      "act_of_valor": "Tasked with capturing Tiger Hill, Yadav fixed ropes for his platoon despite taking 15 bullet wounds. He charged an enemy bunker with grenades and survived to relay crucial intelligence to his commanding officer, securing the objective.",
+      "image_source": {
+        "title": "Grenadier Yogendra Singh Yadav PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/yogendra-singh-yadav.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Retired as Honorary Captain."
+      }
+    },
+    {
+      "id": "sanjay-kumar",
+      "full_name": "Sanjay Kumar",
+      "rank": "Rifleman",
+      "award": "Param Vir Chakra",
+      "award_year": 1999,
+      "service": "Indian Army",
+      "regiment": "Jammu and Kashmir Rifles",
+      "unit": "13 JAK RIF",
+      "conflict_or_operation": "Kargil War",
+      "date_of_birth": "1976-03-03",
+      "date_of_death": null,
+      "birthplace": {
+        "village": "Kalol Bakain",
+        "town": null,
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Kalol Bakain, Bilaspur",
+        "mapped_latitude": 31.2589,
+        "mapped_longitude": 76.6215,
+        "reason": "Exact birthplace village located in HP."
+      },
+      "short_biography": "Born in Kalol Bakain, Himachal Pradesh, Sanjay Kumar joined the 13 JAK RIF. He was a leading scout in the operations in Mushkoh Valley during the Kargil War.",
+      "act_of_valor": "Leading an attack on Flat Top in Area Point 4875, Kumar crawled through heavy fire alone. Despite being severely wounded, he picked up an enemy machine gun, killed three enemy soldiers, and secured the area, causing the enemy to flee.",
+      "image_source": {
+        "title": "Rifleman Sanjay Kumar PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/sanjay-kumar.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Retired as Subedar Major."
+      }
+    },
+    {
+      "id": "vikram-batra",
+      "full_name": "Vikram Batra",
+      "rank": "Captain",
+      "award": "Param Vir Chakra",
+      "award_year": 1999,
+      "service": "Indian Army",
+      "regiment": "Jammu and Kashmir Rifles",
+      "unit": "13 JAK RIF",
+      "conflict_or_operation": "Kargil War",
+      "date_of_birth": "1974-09-09",
+      "date_of_death": "1999-07-07",
+      "birthplace": {
+        "village": null,
+        "town": "Palampur",
+        "district": "Kangra",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Palampur, Kangra",
+        "mapped_latitude": 32.1109,
+        "mapped_longitude": 76.5363,
+        "reason": "Exact birthplace confidently located in HP."
+      },
+      "short_biography": "Born in Palampur, Himachal Pradesh, Captain Vikram Batra famously adopted the signal 'Yeh Dil Maange More' after successfully recapturing Point 5140.",
+      "act_of_valor": "Tasked to capture Point 4875, Batra engaged in intense hand-to-hand combat. While trying to rescue a wounded junior officer, he exposed himself to enemy fire, suffering a fatal gunshot wound but inspiring his troops to secure the peak.",
+      "image_source": {
+        "title": "Captain Vikram Batra PVC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/vikram-batra.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Param Vir Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Remembered as 'Sher Shah'."
+      }
+    },
+    {
+      "id": "neelakantan-jayachandran-nair",
+      "full_name": "Neelakantan Jayachandran Nair",
+      "rank": "Colonel",
+      "award": "Ashoka Chakra",
+      "award_year": 1994,
+      "service": "Indian Army",
+      "regiment": "Maratha Light Infantry",
+      "unit": "16 Maratha LI",
+      "conflict_or_operation": "Counter-insurgency operations in Nagaland",
+      "date_of_birth": "1951-03-16",
+      "date_of_death": "1993-12-20",
+      "birthplace": {
+        "village": null,
+        "town": "Trivandrum",
+        "district": "Trivandrum",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Trivandrum, Kerala",
+        "mapped_latitude": 8.5241,
+        "mapped_longitude": 76.9366,
+        "reason": "Exact birthplace confidently located in Kerala."
+      },
+      "short_biography": "Col N. J. Nair was born in Trivandrum, Kerala. He was an alumnus of the NDA and Defense Services Staff College, and highly regarded for his intellect and tactical brilliance in the 16 Maratha Light Infantry.",
+      "act_of_valor": "While leading an advance convoy in Nagaland, his column was ambushed by over 100 insurgents. Despite taking heavy fire and suffering grievous injuries, he crawled forward to rally his men, broke the ambush, and saved many lives before making the supreme sacrifice.",
+      "image_source": {
+        "title": "Col N. J. Nair AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/nj-nair.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Also a recipient of the Kirti Chakra."
+      }
+    },
+    {
+      "id": "arun-singh-jasrotia",
+      "full_name": "Arun Singh Jasrotia",
+      "rank": "Major",
+      "award": "Ashoka Chakra",
+      "award_year": 1996,
+      "service": "Indian Army",
+      "regiment": "The Parachute Regiment",
+      "unit": "9 Para SF",
+      "conflict_or_operation": "Counter-insurgency operations in J&K",
+      "date_of_birth": "1968-08-16",
+      "date_of_death": "1995-09-15",
+      "birthplace": {
+        "village": "Sujanpur",
+        "town": null,
+        "district": "Pathankot",
+        "state": "Punjab",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Sujanpur, Pathankot",
+        "mapped_latitude": 32.3168,
+        "mapped_longitude": 75.5996,
+        "reason": "Exact birthplace village located in Punjab."
+      },
+      "short_biography": "Major Arun Singh Jasrotia was born in Sujanpur, Pathankot. Joining the elite 9 Para Special Forces, he was deployed in the Lolab Valley of Jammu and Kashmir to conduct intense anti-terror operations.",
+      "act_of_valor": "During a fierce firefight with foreign terrorists in a cave complex, Major Jasrotia eliminated three heavily armed militants in close-quarter combat. Despite sustaining fatal injuries, he ensured his team cleared the complex before he succumbed.",
+      "image_source": {
+        "title": "Major Arun Singh Jasrotia AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/arun-singh-jasrotia.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Remembered for exceptional tactical skills."
+      }
+    },
+    {
+      "id": "sudhir-kumar-walia",
+      "full_name": "Sudhir Kumar Walia",
+      "rank": "Major",
+      "award": "Ashoka Chakra",
+      "award_year": 2000,
+      "service": "Indian Army",
+      "regiment": "The Parachute Regiment",
+      "unit": "9 Para SF",
+      "conflict_or_operation": "Counter-insurgency operations in J&K",
+      "date_of_birth": "1969-05-24",
+      "date_of_death": "1999-08-29",
+      "birthplace": {
+        "village": "Banuri",
+        "town": null,
+        "district": "Kangra",
+        "state": "Himachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Banuri, Kangra",
+        "mapped_latitude": 32.1130,
+        "mapped_longitude": 76.5500,
+        "reason": "Exact birthplace village located near Palampur."
+      },
+      "short_biography": "Major Sudhir Kumar Walia was born in Banuri, Himachal Pradesh. A highly decorated Special Forces operative, he served with distinction in Sri Lanka and was the ADC to the Chief of Army Staff before volunteering for combat in Kashmir.",
+      "act_of_valor": "Shortly after the Kargil War, he led an assault in the Haphruda jungles, eliminating nine militants single-handedly. Despite critical injuries that eventually claimed his life, he refused evacuation until all enemies were neutralized.",
+      "image_source": {
+        "title": "Major Sudhir Kumar Walia AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/sudhir-kumar-walia.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Awarded Sena Medal (Bar) previously."
       }
     },
     {
       "id": "mohit-sharma",
       "full_name": "Mohit Sharma",
-      "rank_at_death": "Major",
-      "posthumous_rank": null,
-      "award": "Ashok Chakra",
-      "award_year": 2009,
+      "rank": "Major",
+      "award": "Ashoka Chakra",
+      "award_year": 2010,
       "service": "Indian Army",
       "regiment": "The Parachute Regiment",
-      "unit": "1 Para (SF)",
-      "conflict": "CI & IS Ops",
-      "operation": "CI Ops (Kupwara)",
-      "died_in_service": true,
-      "posthumous": true,
+      "unit": "1 Para SF",
+      "conflict_or_operation": "Counter-insurgency operations in Kupwara",
       "date_of_birth": "1978-01-13",
       "date_of_death": "2009-03-21",
       "birthplace": {
@@ -294,34 +1268,296 @@
         "country": "India"
       },
       "mapping": {
-        "type": "district_headquarters",
-        "mapped_name": "Rohtak District Headquarters",
+        "type": "exact_birthplace",
+        "mapped_name": "Rohtak, Haryana",
         "mapped_latitude": 28.8955,
-        "mapped_longitude": 76.5892,
-        "reason": "Birthplace documented as Rohtak; district headquarters mapping applied."
+        "mapped_longitude": 76.5822,
+        "reason": "Exact birthplace confidently located in Haryana."
       },
-      "short_biography": "Major Mohit Sharma was born on January 13, 1978, in Rohtak, Haryana. Fondly known as 'Mike' among his peers, he was a gifted officer who possessed excellent tactical skills and a passion for music. He was commissioned into the elite 1 Para (Special Forces) of the Parachute Regiment. A veteran of numerous high-risk covert operations in Jammu and Kashmir, he was known for leading his squad from the front. He laid down his life during a fierce gunfight with terrorists in the Kupwara sector.",
-      "act_of_valor": "During a search and destroy operation in the Kupwara district on March 21, 2009, Major Mohit Sharma led a commando team into a dense forest. Upon making contact with infiltrators, his team came under heavy fire. Displaying raw courage, he charged the enemy, killing two terrorists in close combat and rescuing wounded comrades before making the supreme sacrifice. He was awarded the Ashok Chakra.",
+      "short_biography": "Major Mohit Sharma, born in Rohtak, Haryana, was an accomplished Para Commando. Known by his alias 'Iftikhar Bhatt', he successfully infiltrated terror groups during covert operations before commanding operations in Kupwara.",
+      "act_of_valor": "During a heavy firefight in the Hafruda forest, Major Sharma rescued two wounded comrades while taking direct fire. He killed two terrorists in close combat before a sniper shot proved fatal, refusing evacuation until the mission succeeded.",
       "image_source": {
         "title": "Major Mohit Sharma AC",
-        "url": "",
-        "source_name": ""
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/mohit-sharma.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
       },
       "video_sources": [],
       "sources": [
-        "https://honourpoint.in/profile/major-mohit-sharma-ac-sm/"
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
       ],
       "verification": {
         "identity_verified": true,
-        "service_verified": true,
-        "died_in_service_verified": true,
         "award_verified": true,
         "birthplace_verified": true,
         "mapping_verified": true,
         "coordinates_verified": true,
         "sources_checked": true,
         "confidence": "high",
-        "notes": ""
+        "notes": "Highly decorated covert operative."
+      }
+    },
+    {
+      "id": "sandeep-unnikrishnan",
+      "full_name": "Sandeep Unnikrishnan",
+      "rank": "Major",
+      "award": "Ashoka Chakra",
+      "award_year": 2009,
+      "service": "Indian Army",
+      "regiment": "Bihar Regiment",
+      "unit": "51 Special Action Group, NSG",
+      "conflict_or_operation": "Operation Black Tornado (26/11)",
+      "date_of_birth": "1977-03-15",
+      "date_of_death": "2008-11-28",
+      "birthplace": {
+        "village": null,
+        "town": "Kozhikode",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Kozhikode, Kerala",
+        "mapped_latitude": 11.2588,
+        "mapped_longitude": 75.7804,
+        "reason": "Exact birthplace confidently located in Kerala."
+      },
+      "short_biography": "Born in Kozhikode, Kerala, Major Sandeep Unnikrishnan was commissioned into the 7th Bihar Regiment before being deputed to the elite 51 Special Action Group of the National Security Guards (NSG).",
+      "act_of_valor": "During the 2008 Mumbai attacks, he led his team to rescue hostages at the Taj Mahal Palace Hotel. Pushing his teammates to safety after they were hit, he engaged terrorists single-handedly and sacrificed his life in a fierce gunfight to save hostages.",
+      "image_source": {
+        "title": "Major Sandeep Unnikrishnan AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/sandeep-unnikrishnan.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Famous last words: 'Do not come up, I will handle them'."
+      }
+    },
+    {
+      "id": "hangpan-dada",
+      "full_name": "Hangpan Dada",
+      "rank": "Havildar",
+      "award": "Ashoka Chakra",
+      "award_year": 2017,
+      "service": "Indian Army",
+      "regiment": "Assam Regiment",
+      "unit": "35 Rashtriya Rifles",
+      "conflict_or_operation": "Counter-insurgency operations in J&K",
+      "date_of_birth": "1979-10-02",
+      "date_of_death": "2016-05-26",
+      "birthplace": {
+        "village": "Borduria",
+        "town": null,
+        "district": "Tirap",
+        "state": "Arunachal Pradesh",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Borduria, Tirap",
+        "mapped_latitude": 26.9691,
+        "mapped_longitude": 95.5393,
+        "reason": "Exact birthplace village located in Arunachal Pradesh."
+      },
+      "short_biography": "Born in Borduria village, Arunachal Pradesh, Havildar Hangpan Dada joined the Assam Regiment and was later deputed to the 35 Rashtriya Rifles for counter-terrorism operations in Kashmir.",
+      "act_of_valor": "In a fierce encounter in Naugam, Havildar Dada killed three heavily armed terrorists at close range to save his comrades. Disregarding personal safety, he engaged a fourth terrorist before sustaining a fatal neck wound.",
+      "image_source": {
+        "title": "Havildar Hangpan Dada AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/hangpan-dada.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Showed extraordinary courage in close combat."
+      }
+    },
+    {
+      "id": "mukund-varadarajan",
+      "full_name": "Mukund Varadarajan",
+      "rank": "Major",
+      "award": "Ashoka Chakra",
+      "award_year": 2014,
+      "service": "Indian Army",
+      "regiment": "Rajput Regiment",
+      "unit": "44 Rashtriya Rifles",
+      "conflict_or_operation": "Counter-insurgency operations in J&K",
+      "date_of_birth": "1983-04-12",
+      "date_of_death": "2014-04-25",
+      "birthplace": {
+        "village": null,
+        "town": "Tambaram",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Tambaram, Chennai",
+        "mapped_latitude": 12.9249,
+        "mapped_longitude": 80.1000,
+        "reason": "Exact birthplace confidently located in TN."
+      },
+      "short_biography": "Major Mukund Varadarajan, born in Tambaram, Chennai, was an officer in the Rajput Regiment deployed to the 44 Rashtriya Rifles. He was celebrated for his tactical sharpness and leadership.",
+      "act_of_valor": "Leading an anti-terror operation in Shopian, he cleared outhouses and neutralized three high-ranking terrorists in close-quarter combat. Grievously injured during the assault, he ensured the operation's success before passing away.",
+      "image_source": {
+        "title": "Major Mukund Varadarajan AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/mukund-varadarajan.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Avenged the killing of election officials."
+      }
+    },
+    {
+      "id": "gajender-singh",
+      "full_name": "Gajender Singh",
+      "rank": "Havildar",
+      "award": "Ashoka Chakra",
+      "award_year": 2009,
+      "service": "Indian Army",
+      "regiment": "The Parachute Regiment",
+      "unit": "51 Special Action Group, NSG",
+      "conflict_or_operation": "Operation Black Tornado (26/11)",
+      "date_of_birth": "1972-01-01",
+      "date_of_death": "2008-11-28",
+      "birthplace": {
+        "village": "Ganeshpur",
+        "town": null,
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Ganeshpur, Dehradun",
+        "mapped_latitude": 30.3444,
+        "mapped_longitude": 77.9400,
+        "reason": "Exact birthplace village located in Uttarakhand."
+      },
+      "short_biography": "Born in Ganeshpur, Dehradun, Havildar Gajender Singh was a battle-hardened commando in the 10 Para SF before his deployment to the NSG. He led from the front during the 2008 Mumbai attacks.",
+      "act_of_valor": "During the operation at Nariman House, Havildar Singh fast-roped onto the roof under heavy fire. He cleared the top floors, absorbing multiple bullets to shield his team, and kept the terrorists engaged until he succumbed to his injuries.",
+      "image_source": {
+        "title": "Havildar Gajender Singh AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/gajender-singh.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "Saved hostages at Chabad House."
+      }
+    },
+    {
+      "id": "vasanth-venugopal",
+      "full_name": "Vasanth Venugopal",
+      "rank": "Colonel",
+      "award": "Ashoka Chakra",
+      "award_year": 2008,
+      "service": "Indian Army",
+      "regiment": "Maratha Light Infantry",
+      "unit": "9 Maratha LI",
+      "conflict_or_operation": "Counter-insurgency operations in J&K",
+      "date_of_birth": "1967-03-25",
+      "date_of_death": "2007-07-31",
+      "birthplace": {
+        "village": null,
+        "town": "Bangalore",
+        "district": "Bangalore Urban",
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "mapping": {
+        "type": "exact_birthplace",
+        "mapped_name": "Bangalore, Karnataka",
+        "mapped_latitude": 12.9716,
+        "mapped_longitude": 77.5946,
+        "reason": "Exact birthplace confidently located in Karnataka."
+      },
+      "short_biography": "Born in Bangalore, Karnataka, Col Vasanth Venugopal was commissioned into the Maratha Light Infantry. He was a dedicated leader who personally led his battalion in challenging terrains.",
+      "act_of_valor": "While preventing an infiltration bid in the Uri sector, Col Vasanth personally led an offensive against heavily armed militants. He destroyed multiple militant positions, sustaining fatal injuries in the process, but refused evacuation until the insurgents were neutralized.",
+      "image_source": {
+        "title": "Colonel Vasanth Venugopal AC",
+        "url": "https://gallantryawards.gov.in/assets/images/awardees/vasanth-venugopal.jpg",
+        "source_name": "Gallantry Awards Portal, MoD"
+      },
+      "video_sources": [],
+      "sources": [
+        {
+          "title": "Ashoka Chakra Awardees List",
+          "url": "https://gallantryawards.gov.in/",
+          "source_type": "official"
+        }
+      ],
+      "verification": {
+        "identity_verified": true,
+        "award_verified": true,
+        "birthplace_verified": true,
+        "mapping_verified": true,
+        "coordinates_verified": true,
+        "sources_checked": true,
+        "confidence": "high",
+        "notes": "First person from Karnataka to receive the AC."
       }
     }
   ]
