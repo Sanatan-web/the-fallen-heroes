@@ -32,7 +32,12 @@
 </head>
 <body>
 <main class="entry">
-  <img class="entry-bg" src="assets/background.png" alt="" fetchpriority="high">
+ <div class="entry-carousel" aria-hidden="true">
+  <img class="entry-bg is-active" src="assets/background.png" alt="" fetchpriority="high">
+  <img class="entry-bg" src="assets/background-2.png" alt="" loading="lazy" decoding="async">
+  <img class="entry-bg" src="assets/background-3.png" alt="" loading="lazy" decoding="async">
+  <!-- add more images here, same pattern -->
+</div>
   <div class="entry-shade" aria-hidden="true"></div>
   <div class="entry-content">
     <h1><img src="assets/logo.png" alt="The Fallen Heroes"></h1>
